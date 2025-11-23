@@ -1,5 +1,5 @@
 import time
-from datetime import datetime, timedelta
+from datetime import datetime
 import os
 
 MEDICINE_FILE = "medicines.txt"
