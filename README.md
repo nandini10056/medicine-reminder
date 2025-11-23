@@ -50,3 +50,8 @@ This Smart Medicine Reminder System is a Python-based application that helps use
 * Helps patients taking regular medicine
 * Useful for school/college students
 * Helpful for elderly people
+
+## Output Screenshots
+![ss1](<screenshots/Screenshot 2025-11-23 165635.png>)
+![ss2](<screenshots/Screenshot 2025-11-23 165801.png>)
+![ss3](<screenshots/Screenshot 2025-11-23 165855.png>)
