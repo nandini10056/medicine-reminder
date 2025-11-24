@@ -53,7 +53,6 @@ A simple and effective Python-based program that reminds users to take their pre
 
 5. If the user enters “yes”, the program terminates further reminders.
 
-<img width="1920" height="1020" alt="Screenshot 2025-11-24 123721" src="https://github.com/user-attachments/assets/1a8973dc-7972-480f-a786-98650baffbce" />
 ## Real-Life Use
 * Helps patients taking regular medicine
 * Useful for school/college students
