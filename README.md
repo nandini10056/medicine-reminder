@@ -53,12 +53,18 @@ A simple and effective Python-based program that reminds users to take their pre
 
 5. If the user enters “yes”, the program terminates further reminders.
 
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 123721" src="https://github.com/user-attachments/assets/1a8973dc-7972-480f-a786-98650baffbce" />
 ## Real-Life Use
 * Helps patients taking regular medicine
 * Useful for school/college students
 * Helpful for elderly people
 
 ## Output Screenshots
-![ss1](<screenshots/Screenshot 2025-11-23 165635.png>)
-![ss2](<screenshots/Screenshot 2025-11-23 165801.png>)
-![ss3](<screenshots/Screenshot 2025-11-23 165855.png>)
+
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 123557" src="https://github.com/user-attachments/assets/7ba1513e-b959-473b-983b-6c56e4aa0b32" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 123721" src="https://github.com/user-attachments/assets/1b7990a9-1967-42e7-9df6-cc863be73d35" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 123734" src="https://github.com/user-attachments/assets/3cc5e91c-be34-46d0-b6fe-27d74a97cfee" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 123754" src="https://github.com/user-attachments/assets/ecf934bc-2b73-4127-b76d-512ae5709cd1" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 123839" src="https://github.com/user-attachments/assets/71d4c78b-3250-4bd5-a917-fb19b2a5132b" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 123850" src="https://github.com/user-attachments/assets/48c86111-c714-40a0-8032-4131664cf402" />
